@@ -1,6 +1,6 @@
 # Customer Analytics: Preparing Data for Modeling
 
-![alt](datamodeling.jpg)
+![alt](data/datamodeling.jpg)
 
 ## Project Description
 
